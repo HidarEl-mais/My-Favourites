@@ -1,0 +1,36 @@
+html {
+    background-color: rgb(255, 255, 255)
+}
+
+body {
+    background-color: rgb(199, 216, 233);
+    border-radius: 15px;
+    border: solid;
+    width: 600px;
+    margin: 25px auto;
+    padding: 25px 150px 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1,
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+}
+
+.center {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.white {
+    text-decoration: underline;
+    text-align: center;
+}
